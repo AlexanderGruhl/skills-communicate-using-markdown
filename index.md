@@ -16,3 +16,8 @@ char greetings[] = "Hello World!";
 ``` C++
 string greeting = "Hello";
 ```
+
+- [x] Test of completed task
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
